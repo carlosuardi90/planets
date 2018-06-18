@@ -4,3 +4,5 @@ But mummy will appreciate the lack of humidity
 This is a new test I am doing on my own
 ANd finally I add another line before using the ADD command
 
+line1
+line2
